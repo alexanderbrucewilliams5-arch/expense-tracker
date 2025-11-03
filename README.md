@@ -27,7 +27,7 @@ view summaries by category/type, and visualize spending patterns.
 
 ### 🧩 1. Clone the Repository
 ```bash
-git clone https://github.com/shivlal-sharma/expense-tracker.git
+git clone https://github.com/shivlalsharma/expense-tracker.git
 cd expense-tracker
 ```
 
